@@ -36,4 +36,4 @@ A demo video is available on [https://youtu.be/fvPdwntuhPk]. Previews are also a
 # More Info
 The project was created 10 months before today(8/9/2020) on Laravel-6.0 version.
 
-The main aim of this project was for me to understand ***HTTP/S***,***cURL*, ***Web Scraping*** and ***sentiment analysis based on words*** in a web application. This was my eight project on web-development.
+The main aim of this project was for me to understand ***HTTP/S***,***cURL***, ***Web Scraping*** and ***sentiment analysis based on words*** in a web application. This was my eight project on web-development.
