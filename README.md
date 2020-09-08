@@ -31,7 +31,7 @@ This will rate the content fetched to be either positive, negative or neutral, r
  * To run the project, use command `php artisan serve` in the current directory with cmd and go to the server url, which will take you to the `home` page. The process after that is already explained above.
 
 # Project Demo
-A demo video is available on [https://youtu.be/1gb2ZOhl4eM]. Previews are also available on this repo in `Previews` Folder
+A demo video is available on [https://youtu.be/fvPdwntuhPk]. Previews are also available on this repo in `Previews` Folder
 
 # More Info
 The project was created 10 months before today(8/9/2020) on Laravel-6.0 version.
